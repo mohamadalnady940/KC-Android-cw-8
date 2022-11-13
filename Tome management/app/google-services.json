@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470316761187",
+    "project_id": "tome-management",
+    "storage_bucket": "tome-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470316761187:android:c0decb8d0e3835a9eeb856",
+        "android_client_info": {
+          "package_name": "com.example.timemanagement2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470316761187-i7jvo7299lkh971p9nd9k3ftcui29o5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhhCuDgGxy6m19MyqU3HNMvHvD85Igb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470316761187-i7jvo7299lkh971p9nd9k3ftcui29o5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
